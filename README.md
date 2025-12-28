@@ -10,7 +10,7 @@ No "AI demo sludge." No dashboards. No growth metrics. Just simple things that m
 
 ## The idea
 
-Holidays with family are weird. You love each other, but after two days, someone's arguing about board game rules, someone else is doomscrolling, and the kids are bored.
+Holidays with family can be extreme. You love each other, but after two days someone’s arguing about board game rules, someone else is doomscrolling, and the kids are bored because they’re not allowed to taunt the cat anymore.
 
 **These projects give you something else to do:**
 - Activities that *everyone* can participate in (ages 6–86)
